@@ -1,0 +1,19 @@
+Department,Expense_Type,Amount
+Engineering,Cloud Infrastructure,85000
+Engineering,Software Licenses,42000
+Engineering,Hardware Upgrades,35000
+Engineering,DevOps Training,12000
+Sales,Travel & Accommodation,45000
+Sales,Client Entertainment,28000
+Sales,CRM Subscriptions,18000
+Sales,Conference Sponsorships,25000
+Marketing,Digital Advertising,60000
+Marketing,Content Production,32000
+Marketing,Event Hosting,28000
+Marketing,SEO Tools,9000
+HR,Employee Benefits,55000
+HR,Recruitment Fees,22000
+HR,Internal Workshops,15000
+Operations,Office Lease,75000
+Operations,Utilities,14000
+Operations,Maintenance,11000
